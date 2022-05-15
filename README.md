@@ -1,6 +1,6 @@
 ## Set up
 
-1. git clone https://github.com/ShashikaErandi/login_temperatures.git
+1. git clone https://github.com/ShashikaErandi/online_support_system.git
 2. cd login_temperatures
 3. Copy .env.example
 4. Rename .env.example to .env
